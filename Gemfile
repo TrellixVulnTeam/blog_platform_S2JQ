@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails',        '5.1.6'
-gem 'therubyracer'
+# gem 'therubyracer'
 gem "i18n"
 gem 'twitter'
 gem 'impressionist'
